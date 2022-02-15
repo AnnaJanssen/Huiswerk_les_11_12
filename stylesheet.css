@@ -1,0 +1,54 @@
+header{
+  background-color: lightcoral;
+  width: 100%;
+  height: 150px;
+}
+
+footer{
+  background-color: Bisque;
+  width: 100%;
+  height: 150px;
+}
+
+table, td{
+  border: solid 3px #999999;
+}
+
+td{
+  width: 75px;
+  color: #000000;
+  padding: 2px;
+  text-align: center;
+}
+
+.instagram{
+  background-color: Moccasin;
+}
+
+.Youtube{
+  background-color: mistyrose;
+}
+
+.Facebook{
+  background-color: Paleturquoise;
+}
+
+.LinkedIn{
+  background-color: lightsteelblue;
+}
+
+.Twitter{
+  background-color: Royalblue;
+}
+
+.Snapchat{
+  background-color: LightGoldenrodYellow;
+}
+
+.Tiktok{
+  background-color: Palegreen;
+}
+
+.Pinterest{
+  background-color: Wheat;
+}
